@@ -15,7 +15,7 @@ dependencies:
   archive: any
   path: any
   http: any
-  package_info_plus: any
+  package_info_plus: ^8.3.1
 
 dev_dependencies:
   flutter_test:
